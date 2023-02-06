@@ -55,6 +55,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: abiodunjames/example-app:latest kyson623/ci:example
+          tags: abiodunjames/example-app:latest
     
   
